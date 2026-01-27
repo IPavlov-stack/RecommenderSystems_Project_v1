@@ -1,0 +1,101 @@
+id,title,description,genres
+1,Inception,A thief who enters dreams to steal secrets,sci-fi thriller
+2,Interstellar,A team travels through a wormhole in space,sci-fi drama
+3,The Dark Knight,Batman faces the Joker in Gotham,action crime
+4,The Matrix,A hacker discovers the truth about reality,sci-fi action
+5,Friends,A group of friends living in New York,comedy romance
+6,How I Met Your Mother,A man tells his children how he met their mother,comedy romance
+7,Breaking Bad,A chemistry teacher becomes a drug producer,crime drama
+8,Stranger Things,Kids face supernatural events in a small town,sci-fi horror
+9,The Shawshank Redemption,Two prisoners bond over years in prison,drama
+10,The Godfather,A mafia family rises to power,crime drama
+11,The Godfather Part II,The rise and fall of a mafia dynasty,crime drama
+12,Pulp Fiction,Interconnected stories of crime in Los Angeles,crime drama
+13,Forrest Gump,A man experiences historical events with optimism,drama romance
+14,Fight Club,An office worker forms an underground fight club,drama thriller
+15,The Lord of the Rings The Fellowship of the Ring,A hobbit begins a quest to destroy a ring,fantasy adventure
+16,The Lord of the Rings The Two Towers,The fellowship faces new threats,fantasy adventure
+17,The Lord of the Rings The Return of the King,The final battle for Middle-earth,fantasy adventure
+18,Harry Potter and the Sorcerers Stone,A boy discovers he is a wizard,fantasy family
+19,Harry Potter and the Chamber of Secrets,Dark forces return to Hogwarts,fantasy family
+20,Harry Potter and the Prisoner of Azkaban,A dangerous prisoner escapes,fantasy adventure
+21,The Avengers,Superheroes unite to save the world,action sci-fi
+22,Avengers Infinity War,Heroes face a powerful enemy,sci-fi action
+23,Avengers Endgame,The final battle to save the universe,sci-fi action
+24,Iron Man,A billionaire builds a high-tech suit,action sci-fi
+25,Spider-Man No Way Home,Spider-Man faces multiverse chaos,action sci-fi
+26,Gladiator,A Roman general seeks revenge,action drama
+27,Titanic,A love story aboard a doomed ship,romance drama
+28,The Wolf of Wall Street,A stockbroker lives a life of excess,crime comedy
+29,Joker,A troubled man descends into madness,crime drama
+30,The Social Network,The creation of a social media empire,drama biography
+31,Se7en,Two detectives hunt a serial killer,crime thriller
+32,The Silence of the Lambs,An FBI trainee hunts a serial killer,crime thriller
+33,Parasite,A poor family infiltrates a rich household,thriller drama
+34,Whiplash,A drummer pushed to his limits,music drama
+35,La La Land,A jazz musician and actress fall in love,romance musical
+36,The Prestige,Two magicians compete for greatness,thriller drama
+37,Django Unchained,A freed slave seeks revenge,western drama
+38,The Hateful Eight,Strangers trapped during a blizzard,western thriller
+39,The Truman Show,A man lives in a fabricated reality,drama sci-fi
+40,Black Mirror,Stories about dark sides of technology,sci-fi drama
+41,Dark,A town uncovers time travel secrets,sci-fi mystery
+42,Money Heist,Criminals plan a major robbery,crime thriller
+43,Narcos,The rise of drug cartels,crime drama
+44,Peaky Blinders,A gangster family in England,crime drama
+45,Sherlock,A modern detective solves complex cases,crime mystery
+46,The Office,Office employees deal with everyday life,comedy
+47,The Big Bang Theory,Scientists navigate friendships and love,comedy romance
+48,House MD,A brilliant but rude doctor solves medical cases,drama
+49,Game of Thrones,Families fight for control of the throne,fantasy drama
+50,The Witcher,A monster hunter navigates a dark world,fantasy adventure
+51,The Mandalorian,A bounty hunter in the Star Wars universe,sci-fi adventure
+52,Star Wars A New Hope,Rebels fight an evil empire,sci-fi adventure
+53,Star Wars The Empire Strikes Back,The rebels face defeat,sci-fi adventure
+54,Star Wars Return of the Jedi,The final battle against the empire,sci-fi adventure
+55,Blade Runner,A detective hunts rogue androids,sci-fi noir
+56,Blade Runner 2049,A new blade runner uncovers secrets,sci-fi noir
+57,Alien,A crew encounters a deadly alien,sci-fi horror
+58,Aliens,Marines fight alien creatures,sci-fi action
+59,The Terminator,A cyborg assassin travels back in time,sci-fi action
+60,Terminator 2 Judgment Day,A cyborg protects a young boy,sci-fi action
+61,Squid Game,Contestants risk their lives in deadly games,thriller drama
+62,Wednesday,A teen with psychic abilities attends a strange academy,comedy mystery
+63,Bridgerton,High society families navigate romance and scandal,romance drama
+64,The Queens Gambit,A chess prodigy struggles with addiction,drama
+65,Ozark,A financial advisor launders money for a cartel,crime drama
+66,The Crown,The life and reign of Queen Elizabeth II,drama biography
+67,Lucifer,The devil helps a detective solve crimes,crime fantasy
+68,You,A charming stalker obsesses over his love interests,thriller drama
+69,Sex Education,Teens explore relationships and intimacy,comedy drama
+70,13 Reasons Why,A teen investigates the reasons behind a classmates death,drama mystery
+71,Outer Banks,Teens hunt for treasure on the Carolina coast,adventure drama
+72,The Umbrella Academy,A dysfunctional family of superheroes reunites,superhero fantasy
+73,Shadow and Bone,A girl discovers a power that could save her country,fantasy adventure
+74,The Witcher Blood Origin,A prequel about the first witcher and the Conjunction,fantasy action
+75,Arcane,Rival cities clash in a world of magic and technology,animation fantasy
+76,House of Cards,A ruthless politician climbs to power,political drama
+77,Orange Is the New Black,Women navigate life in a minimum security prison,comedy drama
+78,The Haunting of Hill House,A family confronts terrifying memories of a haunted home,horror drama
+79,The Haunting of Bly Manor,A young governess encounters ghosts at a remote estate,horror romance
+80,The Sandman,The lord of dreams must reclaim his stolen tools,fantasy drama
+81,Locke and Key,Three siblings find magical keys in their family home,fantasy mystery
+82,Lupin,A gentleman thief seeks revenge for his father,crime thriller
+83,Elite,Students at an elite school face murder and secrets,drama thriller
+84,All of Us Are Dead,Students trapped in a school fight a zombie outbreak,horror thriller
+85,Kingdom,A prince investigates a mysterious plague in feudal Korea,historical horror
+86,Alice in Borderland,Players must survive deadly games in an empty Tokyo,sci-fi thriller
+87,The Night Agent,An agent uncovers a conspiracy in the White House,thriller action
+88,The Lincoln Lawyer,A lawyer works out of his car on tricky cases,legal drama
+89,Our Planet,A documentary exploring Earths diverse ecosystems,documentary nature
+90,Drive to Survive,A series following Formula 1 teams and drivers,documentary sports
+91,When They See Us,Five boys are wrongfully convicted in New York,drama true-crime
+92,The Last Dance,A documentary about Michael Jordan and the Bulls,documentary sports
+93,Queen Charlotte,A young queen rises to power in high society,romance drama
+94,DAHMER,A series about the life and crimes of Jeffrey Dahmer,crime drama
+95,Virgin River,A nurse moves to a remote town for a fresh start,romance drama
+96,Manifest,Passengers of a missing flight return years later,sci-fi mystery
+97,Top Boy,Drug dealers navigate life in East London,crime drama
+98,Still Game,Two pensioners experience everyday life in Glasgow,comedy
+99,His and Hers,A couple becomes entangled in a shocking murder case,crime mystery
+100,Red Notice,An agent hunts the worlds most wanted art thief,action comedy
